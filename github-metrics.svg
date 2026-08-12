@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.91248862120483" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="328.91248862120483" y="0" width="114.72826873730524" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.64075735851003" y="0" width="12.191644462652533" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="455.83240182116253" y="0" width="4.167598178837414" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.0627592098825" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="327.0627592098825" y="0" width="114.82269002624543" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="441.88544923612795" y="0" width="13.499779137311315" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="455.38522837343925" y="0" width="4.6147716265607945" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1356,11 +1356,6 @@
                                 <div class="bar" style="width: 3.6399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
-                            <div class="entry">
-                                <span class="name">flakes</span>
-                                <div class="bar" style="width: 2.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1397,7 +1392,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2026, 15:56:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2026, 16:33:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
